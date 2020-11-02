@@ -1,7 +1,7 @@
 # itil4-study
 ITIL 4 foundation study notes
 
-##ITIL 4 Core Concept
+## ITIL 4 Core Concept
 
 SVS - service value system
 * service management basis
@@ -114,7 +114,7 @@ The 4 dimensions of Service Management
             * Legal factors
             * Environmental factors
 
-##ITIL 4 Service Value System
+## ITIL 4 Service Value System
 
 Overview of Service Value System (SVS)
 * the SVS describes how all the components and actives of the organization work together as a system to enable value creation
